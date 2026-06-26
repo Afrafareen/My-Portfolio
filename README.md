@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website!
 
-## 👩‍💻 About
+## 👩🏻‍💻 About
 
 This portfolio showcases my skills, projects, and journey as an aspiring Full Stack Developer.
 
